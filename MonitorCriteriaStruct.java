@@ -110,7 +110,9 @@ public class MonitorCriteriaStruct {
 	public String getSegmentType() {
 		return sSegmentType;
 	}
-
+public String commit2() {
+		return "commit2";
+	}
 	/**
 	 * @param sSegmentType
 	 *            the sSegmentType to set
