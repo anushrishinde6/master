@@ -140,7 +140,10 @@ public class MonitorCriteriaStruct {
 	public String getInvOrgCode() {
 		return sInvOrgCode;
 	}
-
+	public String commit1() {
+		
+		return "commit1";
+	}
 	/**
 	 * @param sInvOrgCode
 	 *            the sInvOrgCode to set
